@@ -327,6 +327,8 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Anna Faris is Unqualified](https://www.unqualified.com/)
 - [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) - DnD has never been so entertaining!
 - [Jesus & Jollof](https://jesusandjollof.simplecast.com/)
+- [The Michelle Obama Podcast](https://open.spotify.com/show/71mvGXupfKcmO6jlmOJQTP?si=DXvSGaPJSJid-jme2Ab-dwutm_source=us-en_brand_contextual_text&utm_medium=paidsearch&utm_campaign=alwayson_ucanz_us_premiumbusiness_obama-podcast_nonbrand+contextual+text+exact+us-en+google)
+- [Pod Save America](https://crooked.com/podcast-series/pod-save-america/)
 
 ## Ted Talks
 - [Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity](https://www.youtube.com/watch?v=0tqq66zwa7g) - She explores scientific results that show the influence of the mindset on the body, and how changing the subjective mindset produced different outcomes.
